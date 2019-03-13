@@ -10,6 +10,7 @@ gem
 .classpath
 .project
 .settings/
+.factorypath
 
 # MacOS files
 .DS_Store
